@@ -1,0 +1,23 @@
+Pineapple
+Mango
+Kiwi
+Raspberry
+Plum
+Lemon
+Strawberry
+Pear
+Lychee
+Lime
+Orange
+Banana
+Avocado
+Blood orange
+Pomelo
+Apple
+Grapes
+Blueberry
+Tangerine
+Watermelon
+Blackberry
+Peach
+-1
